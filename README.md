@@ -1,2 +1,1 @@
-# nirmal-kumar-wasserstoff-AiInternTask
-AI Internship Task for Wasserstoff Innovation and Learning Labs
+# AI Internship Task\n\n## Overview\nThis repository contains the code and documentation for the AI Internship Task for Wasserstoff Innovation and Learning Labs.\n\n## Setup Instructions\n1. Clone the repository.\n2. Install dependencies listed in requirements.txt.\n3. Run the Streamlit app using `streamlit run app/main.py`.\n\n## Usage Guidelines\nProvide usage instructions here.
